@@ -1,0 +1,1 @@
+IDEはVisualStudio2026を利用してください
